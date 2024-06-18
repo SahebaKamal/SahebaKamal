@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SahebaKama
+- 👋 Hi, I’m @SahebaKamal
 - 🌱 I’m currently learning HTML,CSS and JavaScript
 - 📫 Email:kamalsaheba125@gmail.com
 - 😄 Pronouns:her
